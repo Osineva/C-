@@ -71,12 +71,12 @@ void Task8()
 //чётные числа от 1 до N.
 
 Console.WriteLine("Введите число: ");
-int num = Convert.ToInt32(Console.ReadLine());
-int counter = num;
+int number = Convert.ToInt32(Console.ReadLine());
+int counter = 0;
 
-while (counter <= num)
+while (counter <= number)
 {
-if (num % 2 == 0)
+if (number % 2 == 0)
 {
 Console.Write(counter + " ");
 }
