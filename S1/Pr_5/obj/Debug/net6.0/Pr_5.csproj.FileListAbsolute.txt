@@ -1,0 +1,15 @@
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\obj\Debug\net6.0\Pr_5.csproj.AssemblyReference.cache
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\obj\Debug\net6.0\Pr_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\obj\Debug\net6.0\Pr_5.AssemblyInfoInputs.cache
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\obj\Debug\net6.0\Pr_5.AssemblyInfo.cs
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\obj\Debug\net6.0\Pr_5.csproj.CoreCompileInputs.cache
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\bin\Debug\net6.0\Pr_5.exe
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\bin\Debug\net6.0\Pr_5.deps.json
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\bin\Debug\net6.0\Pr_5.runtimeconfig.json
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\bin\Debug\net6.0\Pr_5.dll
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\bin\Debug\net6.0\Pr_5.pdb
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\obj\Debug\net6.0\Pr_5.dll
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\obj\Debug\net6.0\refint\Pr_5.dll
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\obj\Debug\net6.0\Pr_5.pdb
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\obj\Debug\net6.0\Pr_5.genruntimeconfig.cache
+C:\Users\el_at\Documents\C#\C-\S1\Pr_5\obj\Debug\net6.0\ref\Pr_5.dll
